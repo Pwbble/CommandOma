@@ -1,0 +1,6 @@
+name: CommandOma
+description: Versatile Command-Framework for Minecraft Spigot plugins. Written and tested by Cory Torode.
+version: 1.0-SNAPSHOT
+# api-version: 1.19.4-R0.1-SNAPSHOT
+main: oma.command.CommandOma
+author: Cory Torode
